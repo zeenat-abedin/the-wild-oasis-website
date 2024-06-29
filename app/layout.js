@@ -8,6 +8,9 @@ export default function RootLayout({children}) {
         <main>
           {children}
         </main>
+        <footer>
+          Copyright by The Wild Oasis
+        </footer>
       </body>
     </html>
   )
